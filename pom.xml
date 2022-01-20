@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.19.128:8081/repository/Cloud_Gen_Softech-Release/</url>
+            <url>http://192.168.205.177:8081/repository/Test1_Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.19.128:8081/repository/Cloud_Gen_Softech-Snap/</url>
+            <url>http://192.168.205.177:8081/repository/Test1_Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
